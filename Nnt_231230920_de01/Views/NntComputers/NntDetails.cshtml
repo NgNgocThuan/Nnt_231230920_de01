@@ -1,0 +1,42 @@
+﻿@model Nnt_231230920_de01.Models.NntComputer
+
+@{
+    ViewData["Title"] = "NntDetails";
+}
+
+<h1>NntDetails</h1>
+
+<div>
+    <h4>NntComputer</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NntComName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NntComName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NntComPrice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NntComPrice)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NntComImage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NntComImage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NntComStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NntComStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="NntEdit" asp-route-id="@Model?.NntComId">Edit</a> |
+    <a asp-action="NntIndex">Back to List</a>
+</div>

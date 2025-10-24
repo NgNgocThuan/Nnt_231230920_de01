@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhWED\\Nnt_231230920_de01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\nntcomputers\\nntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\nntcomputers\\nntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\models\\nntcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:models\\nntcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\nntcomputers\\nntdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\nntcomputers\\nntdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\controllers\\nntcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:controllers\\nntcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\nntcomputers\\nntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\nntcomputers\\nntcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\shared\\_nntlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\shared\\_nntlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\nntcomputers\\nntdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\nntcomputers\\nntdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\nntcomputers\\nntedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\nntcomputers\\nntedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\nntcomputers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\nntcomputers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\controllers\\nnthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:controllers\\nnthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\nnthome\\nntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\nnthome\\nntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\home\\nntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\home\\nntindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\models\\nguyenngocthuan231230920de01context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:models\\nguyenngocthuan231230920de01context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|d:\\laptrinhwed\\nnt_231230920_de01\\views\\nnthome\\nntcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C8FF8B6-E65E-4F7D-A95F-F75BE87C3DCE}|Nnt_231230920_de01.csproj|solutionrelative:views\\nnthome\\nntcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NntDelete.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\NntDelete.cshtml",
+              "RelativeDocumentMoniker": "Views\\NntComputers\\NntDelete.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\NntDelete.cshtml",
+              "RelativeToolTip": "Views\\NntComputers\\NntDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:41:00.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NntComputersController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Controllers\\NntComputersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NntComputersController.cs",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Controllers\\NntComputersController.cs",
+              "RelativeToolTip": "Controllers\\NntComputersController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwGwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:15:47.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NntEdit.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\NntEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\NntComputers\\NntEdit.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\NntEdit.cshtml",
+              "RelativeToolTip": "Views\\NntComputers\\NntEdit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:39:40.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NntIndex.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\NntIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\NntComputers\\NntIndex.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\NntIndex.cshtml",
+              "RelativeToolTip": "Views\\NntComputers\\NntIndex.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:36:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NntCreate.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\NntCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\NntComputers\\NntCreate.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\NntCreate.cshtml",
+              "RelativeToolTip": "Views\\NntComputers\\NntCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:38:45.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NntComputer.cs",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Models\\NntComputer.cs",
+              "RelativeDocumentMoniker": "Models\\NntComputer.cs",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Models\\NntComputer.cs",
+              "RelativeToolTip": "Models\\NntComputer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:34:59.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_NntLayout.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\Shared\\_NntLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NntLayout.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\Shared\\_NntLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NntLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:03:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NntDetails.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\NntDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\NntComputers\\NntDetails.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\NntDetails.cshtml",
+              "RelativeToolTip": "Views\\NntComputers\\NntDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:37:01.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\NntComputers\\Create.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntComputers\\Create.cshtml",
+              "RelativeToolTip": "Views\\NntComputers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:34:51.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:12:10.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NntIndex.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntHome\\NntIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\NntHome\\NntIndex.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntHome\\NntIndex.cshtml",
+              "RelativeToolTip": "Views\\NntHome\\NntIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:21:45.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NguyenNgocThuan231230920De01Context.cs",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Models\\NguyenNgocThuan231230920De01Context.cs",
+              "RelativeDocumentMoniker": "Models\\NguyenNgocThuan231230920De01Context.cs",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Models\\NguyenNgocThuan231230920De01Context.cs",
+              "RelativeToolTip": "Models\\NguyenNgocThuan231230920De01Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAC8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:09:33.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:18:39.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NntHomeController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Controllers\\NntHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NntHomeController.cs",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Controllers\\NntHomeController.cs",
+              "RelativeToolTip": "Controllers\\NntHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:54:39.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NntIndex.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\Home\\NntIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\NntIndex.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\Home\\NntIndex.cshtml",
+              "RelativeToolTip": "Views\\Home\\NntIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:21:50.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T01:11:26.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NntContact.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntHome\\NntContact.cshtml",
+              "RelativeDocumentMoniker": "Views\\NntHome\\NntContact.cshtml",
+              "ToolTip": "D:\\LapTrinhWED\\Nnt_231230920_de01\\Views\\NntHome\\NntContact.cshtml",
+              "RelativeToolTip": "Views\\NntHome\\NntContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:01:29.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

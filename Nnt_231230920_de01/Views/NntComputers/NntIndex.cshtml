@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Nnt_231230920_de01.Models.NntComputer>
+
+@{
+    ViewData["Title"] = "NntIndex";
+}
+
+<h1>NntIndex</h1>
+
+<p>
+    <a asp-action="NntCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NntComName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NntComPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NntComImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NntComStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NntComName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NntComPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NntComImage)
+            </td>
+            <td>
+                
+                @(item.NntComStatus == true ? "Còn hàng" : "Hết hàng")
+            </td>
+            <td>
+                <a asp-action="NntEdit" asp-route-id="@item.NntComId">Edit</a> |
+                <a asp-action="NntDetails" asp-route-id="@item.NntComId">Details</a> |
+                <a asp-action="NntDelete" asp-route-id="@item.NntComId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,49 @@
+﻿@model Nnt_231230920_de01.Models.NntComputer
+
+@{
+    ViewData["Title"] = "NntEdit";
+}
+
+<h1>NntEdit</h1>
+
+<h4>NntComputer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="NntEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="NntComId" />
+            <div class="form-group">
+                <label asp-for="NntComName" class="control-label"></label>
+                <input asp-for="NntComName" class="form-control" />
+                <span asp-validation-for="NntComName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NntComPrice" class="control-label"></label>
+                <input asp-for="NntComPrice" class="form-control" />
+                <span asp-validation-for="NntComPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NntComImage" class="control-label"></label>
+                <input asp-for="NntComImage" class="form-control" />
+                <span asp-validation-for="NntComImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NntComStatus" class="control-label"></label>
+                <input asp-for="NntComStatus" class="form-control" />
+                <span asp-validation-for="NntComStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="NntIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
